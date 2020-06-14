@@ -2,7 +2,7 @@
 
 Alt-Grab is a small utility program to very quickly switch between applications or windows (on a windows machine). 
 
-I found that I was leaning heavily on alt-tab for day to day work, but in reality was only switching between a few open programs. Using alt-tab for that was consistently frustrating, given that my intuition about the alt-tab order only seemed to be write about half the time if I needed to switch frequently between more than 2 different applications. 
+I found that I was leaning heavily on alt-tab for day to day work, but in reality was only switching between a few open programs. Using alt-tab for that was consistently frustrating, given that my intuition about the alt-tab order only seemed to be correct about half the time if I needed to switch frequently between more than 2 different applications. 
 
 Alt-Grab solves this by letting you bind any open window to one of four "slots." Once a window has been bound to a slot, you can bring it immediately to the foreground with a key command. You can use the same key command to dismiss that slot's window if it's already open (and return to the previously open window). 
 
