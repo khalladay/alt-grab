@@ -32,4 +32,4 @@ I don't expect this will be useful to anyone other than myself, but if you DO us
 
 * The logic for dismissing a foregrounded window slot by pressing it's key combination again isn't 100% bulletproof, and won't work right if that slot's window was brought to the foreground by any method other than it's alt-grab shortcut. 
 
-
+* If you have other apps that use the key commands that alt-grab uses, alt-grab will prevent those applications from seeing those commands
