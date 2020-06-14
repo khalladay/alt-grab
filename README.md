@@ -17,10 +17,10 @@ Alt-grab lives in the system tray. Once it's started, you interact with it solel
 | Left Alt + Shift + k | Bind current window to slot 'K' |
 | Left Alt + Shift + l | Bind current window to slot 'L' |
 | Left Alt + Shift + ; | Bind current window to slot ';' |
-| Alt + j | Summon/Dismiss window bound to slot 'J'|
-| Alt + k | Summon/Dismiss window bound to slot 'K'|
-| Alt + l | Summon/Dismiss window bound to slot 'L'|
-| Alt + ; | Summon/Dismiss window bound to slot ';'|
+| Left Alt + j | Summon/Dismiss window bound to slot 'J'|
+| Left Alt + k | Summon/Dismiss window bound to slot 'K'|
+| Left Alt + l | Summon/Dismiss window bound to slot 'L'|
+| Left Alt + ; | Summon/Dismiss window bound to slot ';'|
 
 Only one window can be bound to a slot at a time. If you bind a window to a slot that is already bound, that slot's contents will be replaced.
 
